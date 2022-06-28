@@ -1,0 +1,8 @@
+if(even.size()%2!=0){
+           if(even.size()<tokens.size()){
+               cout<<even.size()<<endl;
+           }
+           else{
+              
+           }
+          }
